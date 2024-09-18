@@ -1,4 +1,6 @@
-## Hi there 👋
+## E ae!
+
+<a href: "https://majimbav.github.io/InfoWeb-Curriculo/"> Meu currículo </a>
 
 <!--
 **MajimbaV/MajimbaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
