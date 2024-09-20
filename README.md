@@ -1,18 +1,17 @@
-## E ae!
+# E ae! Everton, aqui!
+Eterno amante de Like a Dragon, RPG e outras nerdices.
 
-<a href: "https://majimbav.github.io/InfoWeb-Curriculo/"> Meu currículo </a>
+## Por enquanto, sou só Dev em apreendizado
 
-<!--
-**MajimbaV/MajimbaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###O que estou aprendendo:
 
-Here are some ideas to get you started:
+- Web (HTML, CSS e JS)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Meu progresso até agora:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MajimbaV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/&gt"/&gt;
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MajimbaV&layout=compact&langs_count=8&theme=algolia"/&gt;
+
+Mais informações? Aqui meu ([currículo](https://majimbav.github.io/InfoWeb-Curriculo/%22%3E))
+
