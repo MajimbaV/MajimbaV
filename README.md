@@ -14,5 +14,3 @@ Eterno amante de Like a Dragon, RPG e outras nerdices.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MajimbaV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/&gt">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MajimbaV&layout=compact&langs_count=8&theme=dracula">
 
-Mais informações? Aqui meu [currículo](https://majimbav.github.io/InfoWeb-Curriculo/)
-
